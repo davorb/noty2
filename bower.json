@@ -1,0 +1,17 @@
+{
+  "name": "_noty2",
+  "version": "0.0.2",
+  "authors": [
+    "Davor Babic <davor@davor.se>"
+  ],
+  "description": "_noty2 is a drop-in replacement for _noty that uses the Notifications API",
+  "main": "noty2.js",
+  "keywords": [
+    "jquery",
+    "_noty",
+    "notification",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/davorb/_noty2"
+}
